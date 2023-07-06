@@ -14,7 +14,7 @@ body{
   display: grid;
   grid-template-rows: 190px 1fr;
   row-gap: 2rem;
-  overflowX: hidden;
+  overflow-x: hidden;
 }
 .btn{
   font-family: 'Press Start 2P', sans-serif;
